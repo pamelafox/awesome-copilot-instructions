@@ -88,6 +88,11 @@ Author: @minimaxir
 
 Author: @tonybaloney
 
+## Code quality (markdown file)
+
+>  "file": "GH_Custom_Instruction" // import Python code quality instructions from file `GH_Custom_Instruction.md in the root of the workspace
+
+
 ## OpenAI package
 
 These instructions help LLMs when writing code for newer Python packages that aren't in its training data.
@@ -113,3 +118,5 @@ These instructions help LLMs when writing code for newer Python packages that ar
 > Never include secrets or keys in outputs
 
 > Use resource properties directly in outputs (e.g., storageAccount.properties.primaryEndpoints)
+
+
