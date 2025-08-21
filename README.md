@@ -1,3 +1,5 @@
+This repo is deprecated, check [github/awesome-copilot](https://github.com/github/awesome-copilot/tree/main) for way more instructions!
+
 # awesome-copilot-instructions
 
 Awesome custom instructions for GitHub Copilot
